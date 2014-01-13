@@ -11,5 +11,6 @@ namespace DataAccess.Entities
         List<ITaskStatusEntity> status { get; set; }
         IUserEntity user { get; set; }
 
+        //Hej med jer. Jeg ved ikke hvad jeg skal goere?
     }
 }
