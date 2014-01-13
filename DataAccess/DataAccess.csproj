@@ -50,6 +50,7 @@
     <Compile Include="Data\BinaryImpl\BinaryTaskDataAccess.cs" />
     <Compile Include="Data\BinaryImpl\BinaryTaskStatusDataAccess.cs" />
     <Compile Include="Data\BinaryImpl\BinaryUserDataAccess.cs" />
+    <Compile Include="Data\FadgeClass.cs" />
     <Compile Include="Data\Helpers\BinaryHelper.cs" />
     <Compile Include="Data\IDataAccess.cs" />
     <Compile Include="Data\IUserDataAccess.cs" />
@@ -57,6 +58,8 @@
     <Compile Include="Entities\IBacklogEntity.cs" />
     <Compile Include="Entities\IDailyMeetingEntity.cs" />
     <Compile Include="Entities\Impl\DailyMeetingEntity.cs" />
+    <Compile Include="Entities\Impl\BacklogEntity.cs" />
+    <Compile Include="Entities\IMeatSpin.cs" />
     <Compile Include="Entities\Impl\ProjectEntity.cs" />
     <Compile Include="Entities\Impl\UserEntity.cs" />
     <Compile Include="Entities\IProjectEntity.cs" />

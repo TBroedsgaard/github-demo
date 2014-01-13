@@ -14,5 +14,7 @@ namespace DataAccess.Entities
         int scrumBananer { get; set; }
         List<IDailyMeetingEntity> dailyMeetings { get; set; }
  
+
+        // din mor
     }
 }
