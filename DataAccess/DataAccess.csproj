@@ -57,6 +57,7 @@
     <Compile Include="Entities\IBacklogEntity.cs" />
     <Compile Include="Entities\IDailyMeetingEntity.cs" />
     <Compile Include="Entities\Impl\BacklogEntity.cs" />
+    <Compile Include="Entities\IMeatSpin.cs" />
     <Compile Include="Entities\Impl\ProjectEntity.cs" />
     <Compile Include="Entities\Impl\UserEntity.cs" />
     <Compile Include="Entities\IProjectEntity.cs" />
