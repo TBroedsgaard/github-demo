@@ -10,6 +10,7 @@ namespace DataAccess.Entities
         DateTime statusChanged { get; set; }
         IUserEntity userChanged { get; set; }
         string comment { get; set; }
+        string description { get; set; }
          
     }
 }
