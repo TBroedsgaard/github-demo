@@ -50,6 +50,7 @@
     <Compile Include="Data\BinaryImpl\BinaryTaskDataAccess.cs" />
     <Compile Include="Data\BinaryImpl\BinaryTaskStatusDataAccess.cs" />
     <Compile Include="Data\BinaryImpl\BinaryUserDataAccess.cs" />
+    <Compile Include="Data\FadgeClass.cs" />
     <Compile Include="Data\Helpers\BinaryHelper.cs" />
     <Compile Include="Data\IDataAccess.cs" />
     <Compile Include="Data\IUserDataAccess.cs" />
