@@ -8,5 +8,6 @@ namespace DataAccess.Entities
 {
     class IMeatSpin
     {
+        int diller = 0;
     }
 }
